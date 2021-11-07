@@ -1,0 +1,996 @@
+Request: https://api.bitbucket.org/2.0/users/Janlon
+-----------------------------------------------
+07/11/2021 15:24:29
+Response: System.Net.Http.HttpConnectionResponseContent
+-----------------------------------------------
+07/11/2021 15:24:30
+Request: https://api.bitbucket.org/2.0/users/janlon de Carvalho
+-----------------------------------------------
+07/11/2021 15:24:30
+Response: System.Net.Http.HttpConnectionResponseContent
+-----------------------------------------------
+07/11/2021 15:24:30
+Request: https://api.bitbucket.org/2.0/users/Pretinha123
+-----------------------------------------------
+07/11/2021 15:24:30
+Response: System.Net.Http.HttpConnectionResponseContent
+-----------------------------------------------
+07/11/2021 15:24:31
+Request: https://api.bitbucket.org/2.0/users/Olga
+-----------------------------------------------
+07/11/2021 15:24:31
+Response: System.Net.Http.HttpConnectionResponseContent
+-----------------------------------------------
+07/11/2021 15:24:32
+Request: https://api.bitbucket.org/2.0/users/Rodrigo Rodrigues
+-----------------------------------------------
+07/11/2021 15:24:32
+Response: System.Net.Http.HttpConnectionResponseContent
+-----------------------------------------------
+07/11/2021 15:24:33
+Request: https://api.bitbucket.org/2.0/users/Pedro Alvares
+-----------------------------------------------
+07/11/2021 15:24:33
+Response: System.Net.Http.HttpConnectionResponseContent
+-----------------------------------------------
+07/11/2021 15:24:34
+Request: https://api.bitbucket.org/2.0/users/Janlon
+-----------------------------------------------
+07/11/2021 15:30:14
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 80c5fd67a0092c25
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:30:15 GMT
+  X-Usage-User-Time: 0.018187
+  X-Usage-System-Time: 0.000000
+  X-Served-By: 2ff9af07256f
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "c61e6ecbe99e341c0a433448c1cfbdd6"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0217199325562
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 2217
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 49
+}
+-----------------------------------------------
+07/11/2021 15:30:15
+Request: https://api.bitbucket.org/2.0/users/janlon de Carvalho
+-----------------------------------------------
+07/11/2021 15:30:15
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: d671ac298f0aa3bf
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:30:16 GMT
+  X-Usage-User-Time: 0.017006
+  X-Usage-System-Time: 0.000000
+  X-Served-By: 2ff9af07256f
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "855fd73da1dabcb6a26014328783bbc0"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0202841758728
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 2669
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 61
+}
+-----------------------------------------------
+07/11/2021 15:30:16
+Request: https://api.bitbucket.org/2.0/users/Pretinha123
+-----------------------------------------------
+07/11/2021 15:30:16
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 7fbc58a8c456ad6f
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:30:17 GMT
+  X-Usage-User-Time: 0.018932
+  X-Usage-System-Time: 0.000300
+  X-Served-By: 7cca308ace21
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "741f82057a23670aa0ec6157d2042335"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0213057994843
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 1525
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 54
+}
+-----------------------------------------------
+07/11/2021 15:30:17
+Request: https://api.bitbucket.org/2.0/users/Olga
+-----------------------------------------------
+07/11/2021 15:30:17
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: fc053542df0eb332
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:30:17 GMT
+  X-Usage-User-Time: 0.018118
+  X-Usage-System-Time: 0.000000
+  X-Served-By: 09d829fd1df1
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "67899ff7fb3e4493f46946b2700054b3"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0200309753418
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 2301
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 47
+}
+-----------------------------------------------
+07/11/2021 15:30:17
+Request: https://api.bitbucket.org/2.0/users/Rodrigo Rodrigues
+-----------------------------------------------
+07/11/2021 15:30:17
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 4f4f907bf2a25590
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:30:18 GMT
+  X-Usage-User-Time: 0.016270
+  X-Usage-System-Time: 0.000041
+  X-Served-By: 38e1bf6cee74
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "cdb597a34bca32cbd67cd06074e42b66"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0188729763031
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 1205
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 60
+}
+-----------------------------------------------
+07/11/2021 15:30:18
+Request: https://api.bitbucket.org/2.0/users/Pedro Alvares
+-----------------------------------------------
+07/11/2021 15:30:18
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 303781468dd1705a
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:30:19 GMT
+  X-Usage-User-Time: 0.019089
+  X-Usage-System-Time: 0.000000
+  X-Served-By: 8b272ba7acbb
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "19ac4ef92bf8eece89312f13e8834029"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0253250598907
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 3365
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 56
+}
+-----------------------------------------------
+07/11/2021 15:30:19
+Request: https://api.bitbucket.org/2.0/users/Janlon
+-----------------------------------------------
+07/11/2021 15:31:28
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: f004e678a488d5d7
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:31:29 GMT
+  X-Usage-User-Time: 0.016119
+  X-Usage-System-Time: 0.001617
+  X-Served-By: 7cca308ace21
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "c61e6ecbe99e341c0a433448c1cfbdd6"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.018443107605
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 1622
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 49
+}
+-----------------------------------------------
+07/11/2021 15:31:29
+Request: https://api.bitbucket.org/2.0/users/janlon de Carvalho
+-----------------------------------------------
+07/11/2021 15:31:34
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 637b4dd43f200308
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:31:35 GMT
+  X-Usage-User-Time: 0.015819
+  X-Usage-System-Time: 0.003937
+  X-Served-By: 385d0556e63c
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "855fd73da1dabcb6a26014328783bbc0"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0403039455414
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 3130
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 61
+}
+-----------------------------------------------
+07/11/2021 15:31:35
+Request: https://api.bitbucket.org/2.0/users/Pretinha123
+-----------------------------------------------
+07/11/2021 15:31:40
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: fbc12c360fc2febf
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:31:41 GMT
+  X-Usage-User-Time: 0.015899
+  X-Usage-System-Time: 0.000418
+  X-Served-By: 09d829fd1df1
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "741f82057a23670aa0ec6157d2042335"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0162208080292
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 3603
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 54
+}
+-----------------------------------------------
+07/11/2021 15:31:41
+Request: https://api.bitbucket.org/2.0/users/Olga
+-----------------------------------------------
+07/11/2021 15:31:46
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: a81e07c6de214d5e
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:31:47 GMT
+  X-Usage-User-Time: 0.016948
+  X-Usage-System-Time: 0.002744
+  X-Served-By: 385d0556e63c
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "67899ff7fb3e4493f46946b2700054b3"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0376431941986
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 3038
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 47
+}
+-----------------------------------------------
+07/11/2021 15:31:47
+Request: https://api.bitbucket.org/2.0/users/Rodrigo Rodrigues
+-----------------------------------------------
+07/11/2021 15:31:52
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 044edc84d4b10a24
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:31:52 GMT
+  X-Usage-User-Time: 0.018341
+  X-Usage-System-Time: 0.000618
+  X-Served-By: f205bb47def0
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "cdb597a34bca32cbd67cd06074e42b66"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0208389759064
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 402
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 60
+}
+-----------------------------------------------
+07/11/2021 15:31:52
+Request: https://api.bitbucket.org/2.0/users/Pedro Alvares
+-----------------------------------------------
+07/11/2021 15:31:57
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: d035229999a9bb60
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:31:58 GMT
+  X-Usage-User-Time: 0.019244
+  X-Usage-System-Time: 0.000000
+  X-Served-By: 75a2786ad41f
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "19ac4ef92bf8eece89312f13e8834029"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0354721546173
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 1207
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 56
+}
+-----------------------------------------------
+07/11/2021 15:31:58
+Request: https://api.bitbucket.org/2.0/users/Janlon
+-----------------------------------------------
+07/11/2021 15:34:29
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 1d209b63a6859b10
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:34:30 GMT
+  X-Usage-User-Time: 0.013746
+  X-Usage-System-Time: 0.003229
+  X-Served-By: 478ac4444691
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "c61e6ecbe99e341c0a433448c1cfbdd6"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0178890228271
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 1757
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 49
+}
+-----------------------------------------------
+07/11/2021 15:34:30
+Request: https://api.bitbucket.org/2.0/users/janlon de Carvalho
+-----------------------------------------------
+07/11/2021 15:34:35
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 0a5ef737b5c77335
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:34:36 GMT
+  X-Usage-User-Time: 0.016876
+  X-Usage-System-Time: 0.000288
+  X-Served-By: 09d829fd1df1
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "855fd73da1dabcb6a26014328783bbc0"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0192790031433
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 3353
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 61
+}
+-----------------------------------------------
+07/11/2021 15:34:36
+Request: https://api.bitbucket.org/2.0/users/Pretinha123
+-----------------------------------------------
+07/11/2021 15:34:41
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 64aa85c515116c80
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:34:42 GMT
+  X-Usage-User-Time: 0.012823
+  X-Usage-System-Time: 0.005660
+  X-Served-By: 631952c7ca74
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "741f82057a23670aa0ec6157d2042335"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0327339172363
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 2695
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 54
+}
+-----------------------------------------------
+07/11/2021 15:34:42
+Request: https://api.bitbucket.org/2.0/users/Olga
+-----------------------------------------------
+07/11/2021 15:34:47
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 41023a110c478a56
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:34:48 GMT
+  X-Usage-User-Time: 0.017394
+  X-Usage-System-Time: 0.000000
+  X-Served-By: 4c12024fd0cb
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "67899ff7fb3e4493f46946b2700054b3"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0202689170837
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 1889
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 47
+}
+-----------------------------------------------
+07/11/2021 15:34:48
+Request: https://api.bitbucket.org/2.0/users/Rodrigo Rodrigues
+-----------------------------------------------
+07/11/2021 15:34:53
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 5b883b3f9b9bac08
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:34:53 GMT
+  X-Usage-User-Time: 0.015858
+  X-Usage-System-Time: 0.000798
+  X-Served-By: 631952c7ca74
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "cdb597a34bca32cbd67cd06074e42b66"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0201230049133
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 3171
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 60
+}
+-----------------------------------------------
+07/11/2021 15:34:53
+Request: https://api.bitbucket.org/2.0/users/Pedro Alvares
+-----------------------------------------------
+07/11/2021 15:34:58
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 1d83a6757931594a
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:34:59 GMT
+  X-Usage-User-Time: 0.022498
+  X-Usage-System-Time: 0.000000
+  X-Served-By: ae4735c4d1f1
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "19ac4ef92bf8eece89312f13e8834029"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0309510231018
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 2966
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 56
+}
+-----------------------------------------------
+07/11/2021 15:34:59
+Request: https://api.bitbucket.org/2.0/users/Janlon
+-----------------------------------------------
+07/11/2021 15:36:18
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 687d824cd5c75f82
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:36:19 GMT
+  X-Usage-User-Time: 0.017274
+  X-Usage-System-Time: 0.000000
+  X-Served-By: ae4735c4d1f1
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "c61e6ecbe99e341c0a433448c1cfbdd6"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0225939750671
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 3466
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 49
+}
+-----------------------------------------------
+07/11/2021 15:36:19
+Request: https://api.bitbucket.org/2.0/users/janlon de Carvalho
+-----------------------------------------------
+07/11/2021 15:36:24
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 059ccb0684f4d797
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:36:24 GMT
+  X-Usage-User-Time: 0.016519
+  X-Usage-System-Time: 0.000000
+  X-Served-By: 38e1bf6cee74
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "855fd73da1dabcb6a26014328783bbc0"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.019816160202
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 3544
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 61
+}
+-----------------------------------------------
+07/11/2021 15:36:24
+Request: https://api.bitbucket.org/2.0/users/Pretinha123
+-----------------------------------------------
+07/11/2021 15:36:29
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 5defab0dd2da037c
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:36:30 GMT
+  X-Usage-User-Time: 0.024692
+  X-Usage-System-Time: 0.000000
+  X-Served-By: 385d0556e63c
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "741f82057a23670aa0ec6157d2042335"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0258691310883
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 99
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 54
+}
+-----------------------------------------------
+07/11/2021 15:36:30
+Request: https://api.bitbucket.org/2.0/users/Olga
+-----------------------------------------------
+07/11/2021 15:36:35
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 1fb79e4b4bbb535a
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:36:36 GMT
+  X-Usage-User-Time: 0.016552
+  X-Usage-System-Time: 0.001443
+  X-Served-By: 62bd1fa74d54
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "67899ff7fb3e4493f46946b2700054b3"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.036425113678
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 1703
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 47
+}
+-----------------------------------------------
+07/11/2021 15:36:36
+Request: https://api.bitbucket.org/2.0/users/Rodrigo Rodrigues
+-----------------------------------------------
+07/11/2021 15:36:41
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 70d0e6a19bef7399
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:36:42 GMT
+  X-Usage-User-Time: 0.015568
+  X-Usage-System-Time: 0.003866
+  X-Served-By: 4c12024fd0cb
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "cdb597a34bca32cbd67cd06074e42b66"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0222680568695
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 3223
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 60
+}
+-----------------------------------------------
+07/11/2021 15:36:42
+Request: https://api.bitbucket.org/2.0/users/Pedro Alvares
+-----------------------------------------------
+07/11/2021 15:36:47
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 19e2e7bb77c24434
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:36:48 GMT
+  X-Usage-User-Time: 0.018584
+  X-Usage-System-Time: 0.000000
+  X-Served-By: c0e1699bddca
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "19ac4ef92bf8eece89312f13e8834029"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0367090702057
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 28
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 56
+}
+-----------------------------------------------
+07/11/2021 15:36:48
+Request: https://api.bitbucket.org/2.0/users/Janlon
+-----------------------------------------------
+07/11/2021 15:37:54
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 223b9f66724e8589
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:37:56 GMT
+  X-Usage-User-Time: 0.018773
+  X-Usage-System-Time: 0.000000
+  X-Served-By: 0ddc60bef9f8
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "c61e6ecbe99e341c0a433448c1cfbdd6"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0203368663788
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 1870
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 49
+}
+-----------------------------------------------
+07/11/2021 15:37:56
+Request: https://api.bitbucket.org/2.0/users/janlon de Carvalho
+-----------------------------------------------
+07/11/2021 15:38:01
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 3518be94a9922fa2
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:38:01 GMT
+  X-Usage-User-Time: 0.024924
+  X-Usage-System-Time: 0.000308
+  X-Served-By: 478ac4444691
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "855fd73da1dabcb6a26014328783bbc0"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0276229381561
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 2380
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 61
+}
+-----------------------------------------------
+07/11/2021 15:38:01
+Request: https://api.bitbucket.org/2.0/users/Pretinha123
+-----------------------------------------------
+07/11/2021 15:38:06
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: e12ceeb48a23dce9
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:38:07 GMT
+  X-Usage-User-Time: 0.016429
+  X-Usage-System-Time: 0.002996
+  X-Served-By: 0ddc60bef9f8
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "741f82057a23670aa0ec6157d2042335"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0235860347748
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 2376
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 54
+}
+-----------------------------------------------
+07/11/2021 15:38:07
+Request: https://api.bitbucket.org/2.0/users/Olga
+-----------------------------------------------
+07/11/2021 15:38:12
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: ae7e6f82fc698207
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:38:13 GMT
+  X-Usage-User-Time: 0.021372
+  X-Usage-System-Time: 0.000000
+  X-Served-By: 0ddc60bef9f8
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "67899ff7fb3e4493f46946b2700054b3"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0236508846283
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 2143
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 47
+}
+-----------------------------------------------
+07/11/2021 15:38:13
+Request: https://api.bitbucket.org/2.0/users/Rodrigo Rodrigues
+-----------------------------------------------
+07/11/2021 15:38:18
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: e1dc7a3fd950a313
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:38:19 GMT
+  X-Usage-User-Time: 0.016019
+  X-Usage-System-Time: 0.000000
+  X-Served-By: 478ac4444691
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "cdb597a34bca32cbd67cd06074e42b66"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.0188310146332
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 1076
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 60
+}
+-----------------------------------------------
+07/11/2021 15:38:19
+Request: https://api.bitbucket.org/2.0/users/Pedro Alvares
+-----------------------------------------------
+07/11/2021 15:38:24
+Response: StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.HttpConnectionResponseContent, Headers:
+{
+  Server: nginx
+  Vary: Authorization
+  Vary: Origin
+  Cache-Control: max-age=900
+  X-B3-TraceId: 37a899161636379b
+  X-Usage-Output-Ops: 0
+  X-Dc-Location: Micros
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Date: Sun, 07 Nov 2021 18:38:25 GMT
+  X-Usage-User-Time: 0.017697
+  X-Usage-System-Time: 0.000478
+  X-Served-By: 0ddc60bef9f8
+  X-View-Name: bitbucket.apps.bb.api.v20.handlers.UserHandler
+  ETag: "19ac4ef92bf8eece89312f13e8834029"
+  X-Static-Version: 736e3ea92432
+  X-Render-Time: 0.031653881073
+  Connection: keep-alive
+  X-Usage-Input-Ops: 0
+  X-Version: 736e3ea92432
+  X-Request-Count: 2131
+  X-Frame-Options: SAMEORIGIN
+  X-Cache-Info: caching
+  Content-Type: application/json; charset=utf-8
+  Content-Length: 56
+}
+-----------------------------------------------
+07/11/2021 15:38:25

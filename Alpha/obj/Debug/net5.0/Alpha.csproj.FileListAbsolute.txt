@@ -1,0 +1,16 @@
+/home/administrador/Projetos/Alpha/bin/Debug/net5.0/Alpha
+/home/administrador/Projetos/Alpha/bin/Debug/net5.0/Alpha.deps.json
+/home/administrador/Projetos/Alpha/bin/Debug/net5.0/Alpha.runtimeconfig.json
+/home/administrador/Projetos/Alpha/bin/Debug/net5.0/Alpha.runtimeconfig.dev.json
+/home/administrador/Projetos/Alpha/bin/Debug/net5.0/Alpha.dll
+/home/administrador/Projetos/Alpha/bin/Debug/net5.0/ref/Alpha.dll
+/home/administrador/Projetos/Alpha/bin/Debug/net5.0/Alpha.pdb
+/home/administrador/Projetos/Alpha/obj/Debug/net5.0/Alpha.csproj.AssemblyReference.cache
+/home/administrador/Projetos/Alpha/obj/Debug/net5.0/Alpha.GeneratedMSBuildEditorConfig.editorconfig
+/home/administrador/Projetos/Alpha/obj/Debug/net5.0/Alpha.AssemblyInfoInputs.cache
+/home/administrador/Projetos/Alpha/obj/Debug/net5.0/Alpha.AssemblyInfo.cs
+/home/administrador/Projetos/Alpha/obj/Debug/net5.0/Alpha.csproj.CoreCompileInputs.cache
+/home/administrador/Projetos/Alpha/obj/Debug/net5.0/Alpha.dll
+/home/administrador/Projetos/Alpha/obj/Debug/net5.0/ref/Alpha.dll
+/home/administrador/Projetos/Alpha/obj/Debug/net5.0/Alpha.pdb
+/home/administrador/Projetos/Alpha/obj/Debug/net5.0/Alpha.genruntimeconfig.cache
